@@ -24,3 +24,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendra8767&show_icons=true&locale=en&layout=compact" alt="narendra8767" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narendra8767&show_icons=true&locale=en" alt="narendra8767" /></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/narendra8767/narendra8767/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/narendra8767/narendra8767/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/narendra8767/narendra8767/output/pacman-contribution-graph.svg">
+</picture>
