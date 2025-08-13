@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://narendratekale.com/](https://narendratekale.com/)
 
-- 💬 Ask me about **💬 Ask me about: - End-to-end ML pipeline development - LLM fine-tuning and RAG system optimization - Production-ready API development with FastAPI - MLOps and model deployment strategies - SQL for data engineering and model training workflows**
+- 💬 Ask me about <br> - End-to-end ML pipeline development <br>- LLM fine-tuning and RAG system optimization <br>- Production-ready API development with FastAPI <br>- MLOps and model deployment strategies <br>- SQL for data engineering and model training workflows
 
 - 📫 How to reach me **narendratekale49@gmail.com**
 
