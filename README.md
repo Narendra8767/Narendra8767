@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Narendra Tekale</h1>
 <h3 align="center">AI/ML Engineer | Python • TensorFlow • PyTorch • LLM Fine-Tuning | MLOps • FastAPI</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra8767&label=Profile%20views&color=0e75b6&style=flat" alt="narendra8767" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narendra8767" alt="narendra8767" /></a> </p>
+
 - 🌱 I’m currently learning **LLM Fine-Tuning, AgenticAI, MLOps**
 
 - 👨‍💻 All of my projects are available at [https://narendratekale.com/](https://narendratekale.com/)
@@ -22,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendra8767&show_icons=true&locale=en&layout=compact" alt="narendra8767" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narendra8767&show_icons=true&locale=en" alt="narendra8767" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendra8767&" alt="narendra8767" /></p>
