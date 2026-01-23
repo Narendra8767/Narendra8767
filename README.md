@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **narendratekale49@gmail.com**
 
-- 📄 Know about my experiences [Narendra_Tekale___Resume.pdf](https://drive.google.com/file/d/1miLT2xW5U23Ij0z20sUjiNNRvtae9gmr/view?usp=drive_link)
+- 📄 Know about my experiences [Narendra_Tekale___Resume.pdf](https://drive.google.com/file/d/1um-BnBmiua8lSd3mIBh9yPyxwWnqvlUe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
